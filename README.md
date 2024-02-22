@@ -7,7 +7,7 @@ After a stroke or injury, a person may lose some function in their body. Recreat
 
 Our codesigner, Susan Bibbins, suffers from chronic pain from fibromyalgia and has limited function in her right hand. She always wanted to play video games; however, modern controllers do not accomodate one-handed users.
 
-Our team aims to develop a comfortable and accessible game controlle designed specifically for one-handed users so that our codesigner can finally play video games that she has always wanted to try.
+Our team aims to develop a comfortable and accessible game controller designed specifically for one-handed users so that our codesigner can finally play video games that she has always wanted to try.
 
 ## 🔗 References
 To be completed
