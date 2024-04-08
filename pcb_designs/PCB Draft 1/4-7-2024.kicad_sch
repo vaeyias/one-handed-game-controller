@@ -1246,6 +1246,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 55.88) (xy 205.74 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dbe6493-7bbb-4a22-916e-53b193a55379")
+	)
+	(wire
+		(pts
 			(xy 184.15 55.88) (xy 187.96 55.88)
 		)
 		(stroke
@@ -1916,6 +1926,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 55.88) (xy 219.71 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f03699bf-39db-4daf-8a68-a07a32665001")
+	)
+	(wire
+		(pts
 			(xy 139.7 111.76) (xy 146.05 111.76)
 		)
 		(stroke
@@ -2035,6 +2055,17 @@
 		)
 		(uuid "0f8610f7-d3a4-42b4-9beb-658b5f730602")
 	)
+	(label "GND"
+		(at 215.9 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "123091b7-4b5f-4a7f-9817-7e810f2da0cc")
+	)
 	(label "D1"
 		(at 143.51 111.76 0)
 		(fields_autoplaced yes)
@@ -2068,7 +2099,7 @@
 		)
 		(uuid "2010fb6a-788c-4968-8724-6b27c8ce6814")
 	)
-	(label "D7"
+	(label "D5"
 		(at 191.77 116.84 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2354,7 +2385,7 @@
 		)
 		(uuid "5b04d349-4eb2-4bf4-8624-d210a83dcdcc")
 	)
-	(label "D17"
+	(label "D3"
 		(at 120.65 44.45 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2365,7 +2396,7 @@
 		)
 		(uuid "61eccfd5-2a2b-4069-9feb-1b90f54c216c")
 	)
-	(label "D0"
+	(label "D5"
 		(at 170.18 55.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2574,6 +2605,17 @@
 		)
 		(uuid "ac7f3c17-e0d3-486c-b11c-7e87403d832e")
 	)
+	(label "D17"
+		(at 201.93 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ae605c26-49d8-4a81-944b-9560a9b0dee7")
+	)
 	(label "D16"
 		(at 142.24 116.84 0)
 		(fields_autoplaced yes)
@@ -2684,7 +2726,7 @@
 		)
 		(uuid "cdb2fde9-1f35-49ae-9caa-473321b86587")
 	)
-	(label "D1"
+	(label "D4"
 		(at 99.06 55.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4076,6 +4118,73 @@
 			(project "3-24-2024"
 				(path "/dac850b7-79d7-4b35-b972-5350d8cb3bcd"
 					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 210.82 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee95860b-59b7-44c0-b25d-51bffb8f6070")
+		(property "Reference" "SW7"
+			(at 210.82 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Joy_Button"
+			(at 210.82 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Downloads:SW_BUTT-2"
+			(at 210.82 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 210.82 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ccb968b0-660e-4b70-9d67-2f0acb2be1fa")
+		)
+		(pin "1"
+			(uuid "e4236d92-4be5-4a4e-8a07-8a7c5625b8c3")
+		)
+		(instances
+			(project "3-24-2024"
+				(path "/dac850b7-79d7-4b35-b972-5350d8cb3bcd"
+					(reference "SW7")
 					(unit 1)
 				)
 			)
