@@ -1,5 +1,8 @@
 # :video_game: **One-Handed Game Controller**
 
+# :video_game: **Instructions**
+* TO DO
+
 ## :mag_right: Problem Statement
 **Modern game controllers do not accommodate for one-handed users.**
 
