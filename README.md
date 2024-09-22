@@ -1,7 +1,12 @@
 # :video_game: **One-Handed Game Controller**
 
-# :video_game: **Instructions**
-* TO DO
+# :memo: **Instructions**
+1. Download ___ files
+2. 3D print ___ files
+4. Print PCB
+5. Solder
+6. Assemble
+7. TO DO
 
 ## :mag_right: Problem Statement
 **Modern game controllers do not accommodate for one-handed users.**
