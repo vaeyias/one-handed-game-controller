@@ -1,4 +1,14 @@
-# :video_game: **One-Handed Game Controller**
+# :video_game: **One-Handed Game Controller (Left-Handed)**
+
+# 🛠️ **Tools and Materials**
+- 3D Printer
+- Soldering Kit
+- 1 Arduino Micro
+- 2 Thumb Joysticks (COM-09032)
+- 16 Two-Pin Buttons
+- Electrical Wire Cables
+- PLA
+- (optional) Foam tape
 
 # :memo: **Instructions**
 1. Download ___ files
@@ -17,8 +27,12 @@ Our codesigner, Susan Bibbins, suffers from chronic pain from fibromyalgia and h
 
 Our team aims to develop a comfortable and accessible game controller designed specifically for one-handed users so that our codesigner can finally play video games that she has always wanted to try.
 
-## 🔗 References
-To be completed
 
+## 🔗 References
+![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
+![SOLIDWORKS](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![KiCad Badge](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=fff&style=for-the-badge)
+
+  
 ## ✍️ Acknowledgements
 To be completed
