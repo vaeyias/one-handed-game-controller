@@ -1,6 +1,6 @@
 # :video_game: **One-Handed Game Controller (Left-Handed)**
 
-# 🛠️ **Tools and Materials**
+## 🛠️ **Tools and Materials**
 - 3D Printer
 - Soldering Kit
 - 1 Arduino Micro
@@ -10,7 +10,7 @@
 - PLA
 - (optional) Foam tape
 
-# :memo: **Instructions**
+## :memo: **Instructions**
 1. Download ___ files
 2. 3D print ___ files
 4. Print PCB
