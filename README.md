@@ -3,11 +3,12 @@
 ## 🛠️ **Tools and Materials**
 - 3D Printer
 - Soldering Kit
-- 1 Arduino Micro
-- 2 Thumb Joysticks (COM-09032)
+- 1 Arduino Micro 
+- 2 Thumb Joysticks (KY-023)
 - 16 Two-Pin Buttons
 - Electrical Wire Cables
 - PLA
+- 1 ¾ in machine screws size 2-56
 - (optional) Foam tape
 
 ## :memo: **Instructions**
@@ -15,8 +16,9 @@
 2. 3D print ___ files
 4. Print PCB
 5. Solder
-6. Assemble
-7. TO DO
+6. Upload code to the Arduino
+7. Assemble
+8. TO DO
 
 ## :mag_right: Problem Statement
 **Modern game controllers do not accommodate for one-handed users.**
