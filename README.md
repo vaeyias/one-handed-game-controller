@@ -1,3 +1,4 @@
+![Offical github repo (PCBs are here)] https://github.com/MIT-Assistive-Technology/one-handed-game-controller
 # :video_game: **One-Handed Game Controller (Left-Handed)**
 
 ## 🛠️ **Tools and Materials**
