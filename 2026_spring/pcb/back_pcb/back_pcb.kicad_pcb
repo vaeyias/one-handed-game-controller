@@ -898,7 +898,7 @@
 		(tags "Surface mounted socket strip SMD 1x17 2.54mm single row style1 pin1 left")
 		(property "Reference" "J3"
 			(at 0 -23.19 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "049e8e52-3935-4242-9147-8843ba218192")
 			(effects
 				(font
@@ -1963,7 +1963,7 @@
 		(tags "SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin")
 		(property "Reference" "SW1"
 			(at 0 -2.33 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "6a84c7da-0e61-4865-8424-67ea3302f645")
 			(effects
 				(font
@@ -1974,7 +1974,7 @@
 		)
 		(property "Value" "Left Trigger"
 			(at 0 2.33 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "84cd70fd-ad49-4b8c-a516-07a91e873eee")
 			(effects
 				(font
@@ -2333,7 +2333,7 @@
 		(tags "SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin")
 		(property "Reference" "SW2"
 			(at 0 -2.33 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "e45cf706-a908-41ad-abcc-f2c339e4ab3a")
 			(effects
 				(font
@@ -2344,7 +2344,7 @@
 		)
 		(property "Value" "Right Trigger"
 			(at 0 2.33 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "1761f251-01ab-4c2b-a069-388d369b02e8")
 			(effects
 				(font
@@ -3073,7 +3073,7 @@
 		(tags "SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin")
 		(property "Reference" "SW4"
 			(at 0 -2.33 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "76fd8a19-f510-4f11-b178-04a01ddc2f80")
 			(effects
 				(font
@@ -3084,7 +3084,7 @@
 		)
 		(property "Value" "Left Bumper"
 			(at 0 2.33 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "2c2824f7-ce29-4971-9311-90b2b9c62bd3")
 			(effects
 				(font
@@ -4660,7 +4660,7 @@
 		(tags "SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin")
 		(property "Reference" "SW3"
 			(at 0 -2.33 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "0a31d198-f411-4cf5-b236-999c23a3b57c")
 			(effects
 				(font
@@ -4671,7 +4671,7 @@
 		)
 		(property "Value" "Right Bumper"
 			(at 0 2.33 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "c2d1f899-5b35-4552-acdc-8b39816bb704")
 			(effects
 				(font
@@ -5030,7 +5030,7 @@
 		(tags "Surface mounted socket strip SMD 1x17 2.54mm single row style1 pin1 left")
 		(property "Reference" "J4"
 			(at 0 -23.19 180)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "51469ba1-0e08-4e4b-9fa1-9dd086452bdc")
 			(effects
 				(font
@@ -5040,8 +5040,8 @@
 			)
 		)
 		(property "Value" "Arduino"
-			(at 0 23.19 180)
-			(layer "F.Fab")
+			(at -8.291583 -0.161955 180)
+			(layer "F.SilkS")
 			(uuid "a3bab56f-ad68-420a-8b27-4ccdf5d6f7bc")
 			(effects
 				(font
@@ -6095,7 +6095,7 @@
 		(tags "SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin")
 		(property "Reference" "SW9"
 			(at 0 2.33 180)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "f70d8fc9-a0fa-4702-bac1-999872563fa8")
 			(effects
 				(font
@@ -6107,7 +6107,7 @@
 		)
 		(property "Value" "Left"
 			(at 0 -2.33 180)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "3804be8c-a668-42e0-8df4-fc71d6bce2b1")
 			(effects
 				(font
@@ -6846,8 +6846,8 @@
 		(uuid "7d5a4878-a2f4-4d88-ab3d-2ebfa468c4eb")
 		(at 86.36 64.262)
 		(property "Reference" "J1"
-			(at -2.625 15.235 360)
-			(layer "B.SilkS")
+			(at -2.625 15.235 0)
+			(layer "B.Fab")
 			(uuid "cfe802ee-ee1d-4aa3-8d83-adfe09513969")
 			(effects
 				(font
@@ -6858,8 +6858,8 @@
 			)
 		)
 		(property "Value" "front joystick"
-			(at 3.09 -14.265 360)
-			(layer "B.Fab")
+			(at 0 -14.265 0)
+			(layer "B.SilkS")
 			(uuid "59462c7b-46fd-407b-95a2-e4cf71c0841c")
 			(effects
 				(font
@@ -7472,7 +7472,7 @@
 		(tags "SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin")
 		(property "Reference" "SW8"
 			(at 0 2.33 180)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "af77f774-61ef-4d4a-b62b-2521acdfde60")
 			(effects
 				(font
@@ -7484,7 +7484,7 @@
 		)
 		(property "Value" "Right"
 			(at 0 -2.33 180)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "bada7e2a-9de2-4b0b-a30f-b4380bb24de4")
 			(effects
 				(font
@@ -8980,7 +8980,7 @@
 		(tags "SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin")
 		(property "Reference" "SW6"
 			(at 0 2.33 180)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "b005e1a8-9e93-4b10-a11c-f0420777ba40")
 			(effects
 				(font
@@ -8992,7 +8992,7 @@
 		)
 		(property "Value" "Down"
 			(at 0 -2.33 180)
-			(layer "B.Fab")
+			(layer "B.SilkS")
 			(uuid "fcaaa831-94e8-41a7-8599-66da2be16416")
 			(effects
 				(font
@@ -9350,18 +9350,8 @@
 		)
 	)
 	(gr_line
-		(start 43.762822 104.269)
-		(end 52.284587 119.396394)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "F.Cu")
-		(uuid "d3e1e64b-96c3-48d6-bcad-33dfc6edc281")
-	)
-	(gr_line
-		(start 64.6 46.69279)
-		(end 44.757099 103.916044)
+		(start 63.5 46.69279)
+		(end 43.782089 104.162019)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -9370,7 +9360,7 @@
 		(uuid "055cde18-4eaf-4832-94a3-4828fe5de9d4")
 	)
 	(gr_line
-		(start 64.6 46.69279)
+		(start 63.5 46.69279)
 		(end 111.76 46.69279)
 		(stroke
 			(width 0.05)
@@ -9432,7 +9422,7 @@
 		(uuid "72956950-e168-4477-b7b8-6f2761013065")
 	)
 	(gr_line
-		(start 44.757099 103.916044)
+		(start 43.782089 104.162019)
 		(end 52.324 119.43279)
 		(stroke
 			(width 0.05)
@@ -9514,16 +9504,6 @@
 		(uuid "f45a26dc-c5c8-4525-9693-2e68739ffb07")
 	)
 	(gr_line
-		(start 43.76 104.14)
-		(end 63.598566 46.687491)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "User.4")
-		(uuid "4eddf696-40c9-44a5-a24e-0a17824277e9")
-	)
-	(gr_line
 		(start 86.36 64.262)
 		(end 86.36 51.362)
 		(stroke
@@ -9552,19 +9532,6 @@
 		)
 		(layer "User.4")
 		(uuid "da5345ba-930f-4ef0-96fa-e245c0a79a4e")
-	)
-	(gr_text "vyp@mit.edu"
-		(at 78.74 50.8 0)
-		(layer "B.SilkS")
-		(uuid "dd418f5b-5828-476d-9eb8-4eb13a88fbe0")
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-			)
-			(justify right bottom mirror)
-		)
 	)
 	(gr_text "susan <*)))><\n"
 		(at 58.42 106.68 0)
